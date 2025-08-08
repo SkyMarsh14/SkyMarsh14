@@ -40,8 +40,7 @@ I'm a self-taught web developer, IT student, and former medical interpreter with
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: [soras1758@proton.me]
 - 🧑‍💻 GitHub: [github.com/SkyMarsh14](https://github.com/SkyMarsh14)
 
 Thanks for stopping by! ✨
