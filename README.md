@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sky
+# 👋 Hi there! I'm Yuto
 
 I'm a self-taught web developer, IT student, and former medical interpreter with a passion for building tech that bridges cultures and empowers communities.
 
