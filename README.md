@@ -2,13 +2,10 @@
 
 I'm a self-taught web developer, IT student, and former medical interpreter with a passion for building tech that bridges cultures and empowers communities.
 
-## 🌏 About Me
+## About Me
 
 - 🎓 Currently pursuing a Master of Information Technology in Australia  
-- 💻 Passionate about web development, open-source, and cross-cultural communication  
-- 🌐 Built and maintained a support website for a Japanese game community  
-- 🏥 Former interpreter for the US Army—specialized in bridging language and cultural gaps  
-- 🚀 Always exploring new tools, frameworks, and challenges!
+- 💻 Passionate about web development, open-source, and cross-cultural communication 
 
 ## 🛠️ Tech Stack
 
@@ -35,16 +32,9 @@ I'm a self-taught web developer, IT student, and former medical interpreter with
 - 🧠 **[Memory Card Game](https://github.com/SkyMarsh14/Memory-Card)**  
   A fun memory card game built with React that challenges players to click unique cards without repeating.
 
-## 🌱 Current Goals
-
-- Deepen understanding of full-stack development  
-- Contribute to open-source projects  
-- Build portfolio projects with real-world impact  
-- Connect with like-minded devs around the world!
-
 ## 📫 How to Reach Me
 
 - 📧 Email: [soras1758@proton.me]  
 
 
-Thanks for stopping by! ✨
+Thanks for stopping by
