@@ -29,8 +29,8 @@ I'm a self-taught web developer, IT student, and former medical interpreter with
 - 📁 **[File Uploader](https://github.com/SkyMarsh14/file-uploader)**  
   A drag-and-drop file uploader built with JavaScript. Handles multiple files with real-time progress feedback.
 
-- 🛒 **[Shopping Cart App](https://github.com/SkyMarsh14/Shopping-cart-app)**  
-  A React-based shopping cart application with dynamic routing, product pages, and interactive cart management.
+- **[Messaging App](https://github.com/SkyMarsh14/messaging-app)**
+  Made with React/ Vite with NodeJs on the backend. Authetications are handled with JWT. The main feature being that users can freely message other uers and customize their profile. Dark/ White theme is made with Styled-component (CSS-in-JS)
 
 - 🧠 **[Memory Card Game](https://github.com/SkyMarsh14/Memory-Card)**  
   A fun memory card game built with React that challenges players to click unique cards without repeating.
