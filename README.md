@@ -1,11 +1,10 @@
-# 👋 Hi there! I'm Yuto
+# Hi there! I'm Yuto 👋
 
 I'm a self-taught web developer, IT student, and former medical interpreter with a passion for building tech that bridges cultures and empowers communities.
 
 ## About Me
 
-- 🎓 Currently pursuing a Master of Information Technology in Australia  
-- 💻 Passionate about web development, open-source, and cross-cultural communication 
+Moved from Japan in 2025, and currently studying Master's of Information Technology at Flinders University.
 
 ## 🛠️ Tech Stack
 
